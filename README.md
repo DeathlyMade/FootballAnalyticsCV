@@ -18,7 +18,10 @@ FootballAnalyticsCV is a real-time analysis tool for football match clips that c
 
 ## Running the project
 
-To run the project, run the following command
+To run the project, 
+Download the input video and models from the provided google drive link into the respective folders
+
+Then run the following command
 
 ```bash
   python3 main.py
